@@ -56,6 +56,7 @@ music, fetching news, or generating a response via OpenAI.
 music, fetching news, or generating a response via OpenAI.
 
 LIBRARIES USED : 
+
 • speech_recognition 
 
 • webbrowser 
