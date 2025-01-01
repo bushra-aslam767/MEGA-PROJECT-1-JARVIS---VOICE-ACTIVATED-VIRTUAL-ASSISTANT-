@@ -2,10 +2,15 @@
 Jarvis is a voice-activated virtual assistant designed to perform tasks such as web  browsing, playing music, fetching news, and responding to user queries using OpenAI's  GPT-3.5-turbo model.
 
 FEATURES :
+
 • Voice Recognition 
+
 • Utilizes the speech_recognition library to listen for and recognize voice commands. 
+
 • Activates upon detecting the wake word "Jarvis." 
+
 • Text-to-Speech 
+
 • Converts text to speech using pyttsx3 for local conversion. 
 • Uses gTTS (Google Text-to-Speech) and pygame for playback. 
 • Web Browsing. 
